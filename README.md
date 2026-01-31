@@ -33,9 +33,9 @@ Right now, I’m focused on modern web technologies, UI/UX best practices, and b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="44" title="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" title="Figma"/>
+  <img src="https://img.shields.io/badge/OutSystems-Low--Code-red?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCI+PC9zdmc+" height="44" title="OutSystems"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance&logoColor=white" height="44" title="Agile / Scrum"/>
 </p>
-
-**Also familiar with:** OutSystems (Low-Code), Agile / Scrum
 
 ---
 
